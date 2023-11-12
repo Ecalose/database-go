@@ -1,4 +1,4 @@
-module github.com/replit/database-go
+module github.com/ecalose/database-go
 
 go 1.14
 
